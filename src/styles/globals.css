@@ -2,8 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  @apply bg-grey-800 text-white;
-  background-image: var(--wiggles-bg);
-  overscroll-behavior-y: none;
-}
